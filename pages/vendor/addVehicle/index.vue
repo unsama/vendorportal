@@ -1,6 +1,7 @@
 <template>
   <div class="container mt-5 mb-5" style="width: 500px">
     <p>this is test paragraph</p>
+    <p>Added another para</p>
     <vehicleInfo2 />
   </div>
 </template>
